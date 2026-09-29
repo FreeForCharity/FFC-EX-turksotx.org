@@ -23,6 +23,4 @@
  * The explicit `: string` matters: without it TypeScript narrows the constant
  * to its literal value and rejects the empty-string comparisons the guards use.
  */
-// Empty until this charity's own container is provisioned (workflows 505/503):
-// the template ships the supporting organization's own container id.
-export const GTM_ID: string = ''
+export const GTM_ID: string = 'GTM-TQ5H8HPR'
